@@ -25,7 +25,7 @@ O projeto foi criado com foco em design moderno, navegação intuitiva e experi�
 
 🖼️ Demonstração
 
-<img width="1442" height="4051" alt="projeto1" src="https://github.com/user-attachments/assets/840e400b-f944-4e6d-9dff-265dc4f4c9a4" />
+<img width="1442" height="4052" alt="projeto1" src="https://github.com/user-attachments/assets/881dd6dd-3b02-4405-96f6-9ed08e3d929f" />
 
 💡 Aprendizados
 
